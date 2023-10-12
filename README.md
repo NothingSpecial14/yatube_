@@ -1,2 +1,2 @@
-# hw03_forms
-hw03_forms
+# Yatube
+Social Media for bloggers.
